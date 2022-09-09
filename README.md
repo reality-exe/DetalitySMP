@@ -1,2 +1,5 @@
-# DetalitySMP
-Just a simple spot where I can put the used plugins for quick discord updates.
+```
+AureliumSkills, DropHeads, dynmap, EnhancedEnchants, Essentials, EssentialsChat, EssentialsDiscord, floodgate, Geyser-Spigot, GraveStonesPlus, LuckPerms, PlayerVaults\*, SinglePlayerSleep, TabTPS, VeinMiner
+```
+
+**This list should now automatically update every minute**
