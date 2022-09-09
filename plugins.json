@@ -1,0 +1,5 @@
+{
+  "update":1,
+  "plugins":"AureliumSkills, DropHeads, dynmap, EnhancedEnchants, Essentials, EssentialsChat, EssentialsDiscord, floodgate, Geyser-Spigot, GraveStonesPlus, LuckPerms, PlayerVaults\*, SinglePlayerSleep, TabTPS, VeinMiner, WorldEdit",
+  "changes":""
+}
